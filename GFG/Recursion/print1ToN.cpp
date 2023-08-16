@@ -10,9 +10,7 @@ void print1ToN(int n)
     cout<<n<<" ";
     
 }
-
-
-
+ 
 int main(){
 
     print1ToN(34);
