@@ -3,6 +3,7 @@
         "__locale": "cpp",
         "ios": "cpp",
         "iostream": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "vector": "cpp"
     }
 }
